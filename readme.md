@@ -1,10 +1,10 @@
 # Javascript variáveis e constantes
 
-### variáveis
+### Variáveis
 
 - é um espaço na memória do computador para armazenar uma informação/valor
 
-### padrões de nomeclatura
+### Padrões de nomeclatura
 
 - o nome não pode começar com número e caracteres alfanuméricos
 
@@ -15,3 +15,15 @@
 - snakecase: escreve-se tudo minúsculo e adciona um underline para separar as palavras, ex  -> nome_composto
 
 - PascalCase: começa com letra maiúscula e adciona uma letra maiúscula a cada nome, ex -> NomeComposto
+
+### Constantes
+
+- Espaço na memória  que armazena u valor que não pode ser alterado!
+
+### Tipos de dados
+
+- Variáveis e constantes possuem tipos, e os principais são: string, number e boolean.
+
+
+
+### Tipos de dados
